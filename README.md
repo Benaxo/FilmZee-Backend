@@ -18,13 +18,8 @@ Commenter les films : Les utilisateurs ont la possibilité de laisser des commen
 # 📖 Installation et exécution
 ## Clonage du dépôt
 
-### git clone []
+### git clone https://github.com/Benaxo/FilmZee-Backend.git
 ### cd FilmZee-Backend
-
-## Configurer la base de données
-
-Assurez-vous d'avoir une base de données configurée
-Mettez à jour le fichier application.properties avec les informations de connexion à la base de données.
 
 ## Lancer l'application
 
