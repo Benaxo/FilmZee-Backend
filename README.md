@@ -1,8 +1,9 @@
 # FilmZee-Backend
-<img width="915" alt="Capture d'écran 2023-10-11 125452" src="https://github.com/Benaxo/FilmZee-Backend/assets/79756073/81c6107b-f110-4efe-9bcb-46639eccac00">
 
-🎬 Introduction
+🎬 Introduction:
 FilmZee est une application de cinéma qui permet aux utilisateurs de visualiser les affiches de films, de regarder leurs bandes-annonces et de les commenter. Cette partie couvre le backend de l'application, construit avec Spring Boot.
+
+<img width="915" alt="Capture d'écran 2023-10-11 125452" src="https://github.com/Benaxo/FilmZee-Backend/assets/79756073/81c6107b-f110-4efe-9bcb-46639eccac00">
 
 🔧 Technologies utilisées
 Spring Boot : Framework principal utilisé pour construire l'API.
